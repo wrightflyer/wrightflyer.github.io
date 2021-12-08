@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Synth Wiki is [here](https://github.com/wrightflyer/Synth/wiki)
+
 You can use the [editor on GitHub](https://github.com/wrightflyer/wrightflyer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
